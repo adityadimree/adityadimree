@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ? You can contact me by mailing to me at adityadimree530@gmail.com
 - 😄 Pronouns: My pronouns are he/him
-- ⚡ Fun fact: I can juggle upto three balls and i like to play basketball , i like to sing.
+- ⚡ Fun fact: I can juggle upto three balls
 
 <!---
 adityadimree/adityadimree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
